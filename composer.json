@@ -1,0 +1,16 @@
+{
+    "name": "acls/xuxiao",
+    "description": "upms",
+    "autoload": {
+        "psr-4": {
+            "Acls\\Xuxiao\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "xupengxiang",
+            "email": "pxxu@hillinsight.com"
+        }
+    ],
+    "require": {}
+}
