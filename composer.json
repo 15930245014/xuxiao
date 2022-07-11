@@ -3,7 +3,7 @@
     "description": "thrift",
     "autoload": {
         "psr-4": {
-            "Thirft\\": "src/"
+            "Thirft\\Php": "src/"
         }
     },
     "authors": [
