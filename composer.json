@@ -1,9 +1,9 @@
 {
-    "name": "acls/xuxiao",
-    "description": "upms",
+    "name": "xuxiao\\thrift",
+    "description": "thrift",
     "autoload": {
         "psr-4": {
-            "Acls\\Xuxiao\\": "src/"
+            "Thirft\\": "src/"
         }
     },
     "authors": [
