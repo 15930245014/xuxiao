@@ -1,5 +1,5 @@
 {
-    "name": "xuxiao/thrift",
+    "name": "xuxiao",
     "description": "thrift",
     "autoload": {
         "psr-4": {
