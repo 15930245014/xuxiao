@@ -1,9 +1,8 @@
 {
-    "name": "xuxiao/thrift",
-    "description": "thrift",
+    "name": "thrift/php",
     "autoload": {
         "psr-4": {
-            "Thrift\\": "src/"
+            "Thrift\\Php\\": "src/"
         }
     },
     "authors": [
