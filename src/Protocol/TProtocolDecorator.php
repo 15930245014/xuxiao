@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol;
+namespace Thrift\Protocol;
 
-use Thrift\Php\Exception\TException;
+use Thrift\Exception\TException;
 
 /**
  * <code>TProtocolDecorator</code> forwards all requests to an enclosed

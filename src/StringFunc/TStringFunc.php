@@ -19,7 +19,7 @@
  *
  */
 
-namespace Thrift\Php\StringFunc;
+namespace Thrift\StringFunc;
 
 interface TStringFunc
 {

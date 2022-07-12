@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol\SimpleJSON;
+namespace Thrift\Protocol\SimpleJSON;
 
-use Thrift\Php\Protocol\TSimpleJSONProtocol;
+use Thrift\Protocol\TSimpleJSONProtocol;
 
 class StructContext extends Context
 {

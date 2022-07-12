@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol\SimpleJSON;
+namespace Thrift\Protocol\SimpleJSON;
 
-use Thrift\Php\Exception\TException;
+use Thrift\Exception\TException;
 
 class CollectionMapKeyException extends TException
 {

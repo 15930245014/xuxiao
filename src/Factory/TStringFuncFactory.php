@@ -19,11 +19,11 @@
  *
  */
 
-namespace Thrift\Php\Factory;
+namespace Thrift\Factory;
 
-use Thrift\Php\StringFunc\Core;
-use Thrift\Php\StringFunc\Mbstring;
-use Thrift\Php\StringFunc\TStringFunc;
+use Thrift\StringFunc\Core;
+use Thrift\StringFunc\Mbstring;
+use Thrift\StringFunc\TStringFunc;
 
 class TStringFuncFactory
 {

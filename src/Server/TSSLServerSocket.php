@@ -19,9 +19,9 @@
  *
  */
 
-namespace Thrift\Php\Server;
+namespace Thrift\Server;
 
-use Thrift\Php\Transport\TSSLSocket;
+use Thrift\Transport\TSSLSocket;
 
 /**
  * Socket implementation of a server agent.

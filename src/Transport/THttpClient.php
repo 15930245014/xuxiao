@@ -20,10 +20,10 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Php\Transport;
+namespace Thrift\Transport;
 
-use Thrift\Php\Exception\TTransportException;
-use Thrift\Php\Factory\TStringFuncFactory;
+use Thrift\Exception\TTransportException;
+use Thrift\Factory\TStringFuncFactory;
 
 /**
  * HTTP client for Thrift

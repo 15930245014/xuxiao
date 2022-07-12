@@ -1,8 +1,8 @@
 <?php
 
-namespace Thrift\Php\Server;
+namespace Thrift\Server;
 
-use Thrift\Php\Exception\TTransportException;
+use Thrift\Exception\TTransportException;
 
 /**
  * Simple implemtation of a Thrift server.

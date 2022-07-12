@@ -21,11 +21,11 @@
  * @author: rmarin (marin.radu@facebook.com)
  */
 
-namespace Thrift\Php\Serializer;
+namespace Thrift\Serializer;
 
-use Thrift\Php\Transport\TMemoryBuffer;
-use Thrift\Php\Protocol\TBinaryProtocolAccelerated;
-use Thrift\Php\Type\TMessageType;
+use Thrift\Transport\TMemoryBuffer;
+use Thrift\Protocol\TBinaryProtocolAccelerated;
+use Thrift\Type\TMessageType;
 
 /**
  * Utility class for serializing and deserializing

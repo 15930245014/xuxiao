@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol;
+namespace Thrift\Protocol;
 
-use Thrift\Php\Transport\TBufferedTransport;
+use Thrift\Transport\TBufferedTransport;
 
 /**
  * Accelerated binary protocol: used in conjunction with the thrift_protocol

@@ -20,11 +20,11 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Php\Transport;
+namespace Thrift\Transport;
 
-use Thrift\Php\Exception\TException;
-use Thrift\Php\Exception\TTransportException;
-use Thrift\Php\Factory\TStringFuncFactory;
+use Thrift\Exception\TException;
+use Thrift\Exception\TTransportException;
+use Thrift\Factory\TStringFuncFactory;
 
 /**
  * Sockets implementation of the TTransport interface.

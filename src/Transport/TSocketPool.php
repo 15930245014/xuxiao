@@ -20,9 +20,9 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Php\Transport;
+namespace Thrift\Transport;
 
-use Thrift\Php\Exception\TException;
+use Thrift\Exception\TException;
 
 /**
  * This library makes use of APCu cache to make hosts as down in a web

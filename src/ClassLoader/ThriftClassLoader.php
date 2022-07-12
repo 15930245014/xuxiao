@@ -23,7 +23,7 @@
  * @package thrift.classloader
  */
 
-namespace Thrift\Php\ClassLoader;
+namespace Thrift\ClassLoader;
 
 class ThriftClassLoader
 {

@@ -20,9 +20,9 @@
  * @package thrift
  */
 
-namespace Thrift\Php\Base;
+namespace Thrift\Base;
 
-use Thrift\Php\Type\TType;
+use Thrift\Type\TType;
 
 /**
  * Base class from which other Thrift structs extend. This is so that we can

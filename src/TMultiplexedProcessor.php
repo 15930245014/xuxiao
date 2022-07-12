@@ -20,12 +20,12 @@
  * @package thrift.processor
  */
 
-namespace Thrift\Php;
+namespace Thrift;
 
-use Thrift\Php\Exception\TException;
-use Thrift\Php\Protocol\TProtocol;
-use Thrift\Php\Protocol\TMultiplexedProtocol;
-use Thrift\Php\Type\TMessageType;
+use Thrift\Exception\TException;
+use Thrift\Protocol\TProtocol;
+use Thrift\Protocol\TMultiplexedProtocol;
+use Thrift\Type\TMessageType;
 
 /**
  * <code>TMultiplexedProcessor</code> is a Processor allowing

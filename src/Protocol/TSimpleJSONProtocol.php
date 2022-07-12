@@ -21,15 +21,15 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol;
+namespace Thrift\Protocol;
 
-use Thrift\Php\Exception\TException;
-use Thrift\Php\Exception\TProtocolException;
-use Thrift\Php\Protocol\SimpleJSON\Context;
-use Thrift\Php\Protocol\SimpleJSON\ListContext;
-use Thrift\Php\Protocol\SimpleJSON\StructContext;
-use Thrift\Php\Protocol\SimpleJSON\MapContext;
-use Thrift\Php\Protocol\SimpleJSON\CollectionMapKeyException;
+use Thrift\Exception\TException;
+use Thrift\Exception\TProtocolException;
+use Thrift\Protocol\SimpleJSON\Context;
+use Thrift\Protocol\SimpleJSON\ListContext;
+use Thrift\Protocol\SimpleJSON\StructContext;
+use Thrift\Protocol\SimpleJSON\MapContext;
+use Thrift\Protocol\SimpleJSON\CollectionMapKeyException;
 
 /**
  * SimpleJSON implementation of thrift protocol, ported from Java.

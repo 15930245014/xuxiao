@@ -20,7 +20,7 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol\JSON;
+namespace Thrift\Protocol\JSON;
 
 class BaseContext
 {

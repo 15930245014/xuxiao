@@ -2,7 +2,7 @@
     "name": "thrift/php",
     "autoload": {
         "psr-4": {
-            "Thrift\\Php\\": "src/"
+            "Thrift\\": "src/"
         }
     },
     "authors": [

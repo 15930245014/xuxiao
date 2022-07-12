@@ -1,9 +1,9 @@
 <?php
 
-namespace Thrift\Php\Server;
+namespace Thrift\Server;
 
-use Thrift\Php\Factory\TTransportFactory;
-use Thrift\Php\Factory\TProtocolFactory;
+use Thrift\Factory\TTransportFactory;
+use Thrift\Factory\TProtocolFactory;
 
 /**
  * Generic class for a Thrift server.

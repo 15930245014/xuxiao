@@ -20,7 +20,7 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Protocol\SimpleJSON;
+namespace Thrift\Protocol\SimpleJSON;
 
 class MapContext extends StructContext
 {

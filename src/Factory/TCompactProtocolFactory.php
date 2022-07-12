@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Php\Factory;
+namespace Thrift\Factory;
 
-use Thrift\Php\Protocol\TCompactProtocol;
+use Thrift\Protocol\TCompactProtocol;
 
 /**
  * Compact Protocol Factory
