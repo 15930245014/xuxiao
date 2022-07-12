@@ -20,9 +20,9 @@
  * @package thrift
  */
 
-namespace Thrift\Exception;
+namespace Thrift\Php\Exception;
 
-use Thrift\Type\TType;
+use Thrift\Php\Type\TType;
 
 class TApplicationException extends TException
 {

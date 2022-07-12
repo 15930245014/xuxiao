@@ -20,7 +20,7 @@
  * @package thrift
  */
 
-namespace Thrift\Type;
+namespace Thrift\Php\Type;
 
 /**
  * Message types for RPC

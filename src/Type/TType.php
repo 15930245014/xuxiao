@@ -20,7 +20,7 @@
  * @package thrift
  */
 
-namespace Thrift\Type;
+namespace Thrift\Php\Type;
 
 /**
  * Data types that can be sent via Thrift

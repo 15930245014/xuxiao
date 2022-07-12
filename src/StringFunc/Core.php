@@ -19,7 +19,7 @@
  *
  */
 
-namespace Thrift\StringFunc;
+namespace Thrift\Php\StringFunc;
 
 class Core implements TStringFunc
 {

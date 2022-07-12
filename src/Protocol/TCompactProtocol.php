@@ -20,11 +20,11 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Protocol;
+namespace Thrift\Php\Protocol;
 
-use Thrift\Type\TType;
-use Thrift\Exception\TProtocolException;
-use Thrift\Factory\TStringFuncFactory;
+use Thrift\Php\Type\TType;
+use Thrift\Php\Exception\TProtocolException;
+use Thrift\Php\Factory\TStringFuncFactory;
 
 /**
  * Compact implementation of the Thrift protocol.

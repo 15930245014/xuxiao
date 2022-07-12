@@ -20,9 +20,9 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Transport;
+namespace Thrift\Php\Transport;
 
-use Thrift\Exception\TTransportException;
+use Thrift\Php\Exception\TTransportException;
 
 /**
  * Transport that only accepts writes and ignores them.

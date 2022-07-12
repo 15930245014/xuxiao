@@ -20,7 +20,7 @@
  * @package thrift
  */
 
-namespace Thrift\Type;
+namespace Thrift\Php\Type;
 
 /**
  * Base class for constant Management

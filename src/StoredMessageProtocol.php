@@ -20,10 +20,10 @@
  * @package thrift.processor
  */
 
-namespace Thrift;
+namespace Thrift\Php;
 
-use Thrift\Protocol\TProtocol;
-use Thrift\Protocol\TProtocolDecorator;
+use Thrift\Php\Protocol\TProtocol;
+use Thrift\Php\Protocol\TProtocolDecorator;
 
 /**
  *  Our goal was to work with any protocol. In order to do that, we needed

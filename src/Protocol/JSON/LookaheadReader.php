@@ -20,7 +20,7 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Protocol\JSON;
+namespace Thrift\Php\Protocol\JSON;
 
 class LookaheadReader
 {

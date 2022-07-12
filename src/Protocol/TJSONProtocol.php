@@ -21,14 +21,14 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Protocol;
+namespace Thrift\Php\Protocol;
 
-use Thrift\Type\TType;
-use Thrift\Exception\TProtocolException;
-use Thrift\Protocol\JSON\BaseContext;
-use Thrift\Protocol\JSON\LookaheadReader;
-use Thrift\Protocol\JSON\PairContext;
-use Thrift\Protocol\JSON\ListContext;
+use Thrift\Php\Type\TType;
+use Thrift\Php\Exception\TProtocolException;
+use Thrift\Php\Protocol\JSON\BaseContext;
+use Thrift\Php\Protocol\JSON\LookaheadReader;
+use Thrift\Php\Protocol\JSON\PairContext;
+use Thrift\Php\Protocol\JSON\ListContext;
 
 /**
  * JSON implementation of thrift protocol, ported from Java.

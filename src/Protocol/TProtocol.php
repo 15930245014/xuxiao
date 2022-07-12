@@ -20,12 +20,12 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Protocol;
+namespace Thrift\Php\Protocol;
 
-use Thrift\Exception\TException;
-use Thrift\Transport\TTransport;
-use Thrift\Type\TType;
-use Thrift\Exception\TProtocolException;
+use Thrift\Php\Exception\TException;
+use Thrift\Php\Transport\TTransport;
+use Thrift\Php\Type\TType;
+use Thrift\Php\Exception\TProtocolException;
 
 /**
  * Protocol base class module.

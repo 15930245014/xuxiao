@@ -20,7 +20,7 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Exception;
+namespace Thrift\Php\Exception;
 
 /**
  * Transport exceptions

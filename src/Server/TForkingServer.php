@@ -1,10 +1,10 @@
 <?php
 
-namespace Thrift\Server;
+namespace Thrift\Php\Server;
 
-use Thrift\Transport\TTransport;
-use Thrift\Exception\TException;
-use Thrift\Exception\TTransportException;
+use Thrift\Php\Transport\TTransport;
+use Thrift\Php\Exception\TException;
+use Thrift\Php\Exception\TTransportException;
 
 /**
  * A forking implementation of a Thrift server.

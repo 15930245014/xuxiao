@@ -20,7 +20,7 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Factory;
+namespace Thrift\Php\Factory;
 
 /**
  * Protocol factory creates protocol objects from transports

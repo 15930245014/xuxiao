@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Factory;
+namespace Thrift\Php\Factory;
 
-use Thrift\Protocol\TJSONProtocol;
+use Thrift\Php\Protocol\TJSONProtocol;
 
 /**
  * JSON Protocol Factory

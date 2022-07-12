@@ -20,9 +20,9 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Server;
+namespace Thrift\Php\Server;
 
-use Thrift\Transport\TSocket;
+use Thrift\Php\Transport\TSocket;
 
 /**
  * Socket implementation of a server agent.

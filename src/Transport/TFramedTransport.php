@@ -20,9 +20,9 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Transport;
+namespace Thrift\Php\Transport;
 
-use Thrift\Factory\TStringFuncFactory;
+use Thrift\Php\Factory\TStringFuncFactory;
 
 /**
  * Framed transport. Writes and reads data in chunks that are stamped with

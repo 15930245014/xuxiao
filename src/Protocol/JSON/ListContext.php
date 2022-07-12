@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Protocol\JSON;
+namespace Thrift\Php\Protocol\JSON;
 
-use Thrift\Protocol\TJSONProtocol;
+use Thrift\Php\Protocol\TJSONProtocol;
 
 class ListContext extends BaseContext
 {

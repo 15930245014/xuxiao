@@ -20,10 +20,10 @@
  * @package thrift
  */
 
-namespace Thrift\Exception;
+namespace Thrift\Php\Exception;
 
-use Thrift\Type\TType;
-use Thrift\Base\TBase;
+use Thrift\Php\Type\TType;
+use Thrift\Php\Base\TBase;
 
 /**
  * NOTE(mcslee): This currently contains a ton of duplicated code from TBase

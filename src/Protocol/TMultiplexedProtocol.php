@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Protocol;
+namespace Thrift\Php\Protocol;
 
-use Thrift\Type\TMessageType;
+use Thrift\Php\Type\TMessageType;
 
 /**
  * <code>TMultiplexedProtocol</code> is a protocol-independent concrete decorator

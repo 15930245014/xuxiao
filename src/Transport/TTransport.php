@@ -20,10 +20,10 @@
  * @package thrift.transport
  */
 
-namespace Thrift\Transport;
+namespace Thrift\Php\Transport;
 
-use Thrift\Exception\TTransportException;
-use Thrift\Factory\TStringFuncFactory;
+use Thrift\Php\Exception\TTransportException;
+use Thrift\Php\Factory\TStringFuncFactory;
 
 /**
  * Base interface for a transport agent.

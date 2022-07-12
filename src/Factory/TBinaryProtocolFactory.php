@@ -20,9 +20,9 @@
  * @package thrift.protocol
  */
 
-namespace Thrift\Factory;
+namespace Thrift\Php\Factory;
 
-use Thrift\Protocol\TBinaryProtocol;
+use Thrift\Php\Protocol\TBinaryProtocol;
 
 /**
  * Binary Protocol Factory
